@@ -1,17 +1,19 @@
-## Olá!
+## Sobre mim
+- 🖥 Desenvolvedora de sistemas
+- 🎓 Cursando Ciência da Computação
+- 🌐 Adoro desafios
+- :heart: Full-Stack
 
-<div>
-  <a href="https://github.com/chaienekrebs/chaienekrebs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaienekrebs&hide_progress=true&theme=dracula"/>  
-</div>
+## Linguagens e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"> 
 <div/>
-  
+
   ##
   
 <div>
