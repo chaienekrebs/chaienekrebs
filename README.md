@@ -1,4 +1,4 @@
-## Sobre mim
+## Olá, eu sou a Chaiene Krebs!
 - 🖥 Desenvolvedora de sistemas
 - 🎓 Cursando Ciência da Computação
 - 🌐 Adoro desafios
